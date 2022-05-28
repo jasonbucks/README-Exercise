@@ -43,7 +43,7 @@ python app.py
 
 Upon launching the loan qualifier application you will be greeted with the following prompts.
 
-![Loan Qualifier Prompts](Images/loan_qalifier.png)
+![Loan Qualifier Prompts](app_user_input_screenshot.png)
 
 ---
 
@@ -51,8 +51,12 @@ Upon launching the loan qualifier application you will be greeted with the follo
 
 In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
 
+Brought to you by Jason Buckholt
+
 ---
 
 ## License
 
 When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+
+MIT
