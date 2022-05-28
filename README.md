@@ -22,11 +22,28 @@ This project leverages python 3.9.7 with the following packages:
 
 In this section, you should include detailed installation notes containing code blocks and screenshots.
 
+Before running the application first install the following dependencies.
+
+```python
+  pip install fire
+  pip install questionary
+```
+
 ---
 
 ## Usage
 
 This section should include screenshots, code blocks, or animations explaining how to use your project.
+
+To use the loan qualifier application simply clone the repository and run the **app.py** with:
+
+```python
+python app.py
+```
+
+Upon launching the loan qualifier application you will be greeted with the following prompts.
+
+![Loan Qualifier Prompts](Images/loan_qalifier.png)
 
 ---
 
